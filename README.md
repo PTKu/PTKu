@@ -14,6 +14,16 @@
 
 [🖇](https://www.linkedin.com/in/peter-kurhajec/)
 
+<div>
+   <a href="https://www.mts.sk/en">
+      <img src="https://github.com/TcOpenGroup/.github/blob/dev/profile/assets/logo/mts-logo.png" alt="drawing" width="200"/>
+  </a>
+  <a href="https://www.inxton.com">
+    <img src="https://github.com/TcOpenGroup/.github/blob/dev/profile/assets/logo/inxton.png" alt="drawing" width="200"/>
+  </a>  
+<div>
+  
+[![Inxton](https://img.shields.io/badge/github-inxton-009999?logo=github)](https://github.com/inxton)  [![TcOpenGroup](https://img.shields.io/badge/github-TcOpenGroup-009999?logo=github)](https://github.com/TcOpenGroup)  
 
 <!--
 **PTKu/PTKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
