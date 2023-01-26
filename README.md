@@ -2,7 +2,7 @@
 
 - I am a husband and father of five.
 - My mission is to bring Industrial automation and Information technologies together.
-- I work on a few projects, some oss like this: [TcOpen](https://github.com/TcOpenGroup/TcOpen)
+- I work on a few projects, some OSS like [IX](https://github.com/ix-ax), [TcOpen](https://github.com/TcOpenGroup/TcOpen)
 - I am fluent in the following languages: Slovak, C#, English, Python, Italian, any of IEC-61131-3
 - I am somewhat knowledgeable in Spanish, C, C++, Russian, F#
 - I can kind of understand: Estonian, Go, Polish, JavaScript, Czech, Java
