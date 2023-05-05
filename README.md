@@ -2,7 +2,7 @@
 
 - I am a husband and father of five.
 - My mission is to bring Industrial automation and Information technologies together.
-- I work on a few projects, some OSS like [AX#](https://github.com/ix-ax/axsharp) and [ix.framework](https://github.com/ix-ax/ix.framework). 
+- I work on a few projects, some OSS like [AX#](https://github.com/ix-ax/axsharp) and [AXOpen](https://github.com/ix-ax/AXOpen). 
 - I am original maintainer of [TcOpen](https://github.com/TcOpenGroup/TcOpen) project.
 - I am fluent in the following languages: Slovak, C#, English, Python, Italian, any of IEC-61131-3
 - I am somewhat knowledgeable in Spanish, C, C++, Russian, F#
