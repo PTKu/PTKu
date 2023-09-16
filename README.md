@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-- I am a husband and father of five.
-- My mission is to bring Industrial automation and Information technologies together.
-- I work on a few projects, some OSS like [AX#](https://github.com/ix-ax/axsharp) and [AXOpen](https://github.com/ix-ax/AXOpen). 
-- I am original maintainer of [TcOpen](https://github.com/TcOpenGroup/TcOpen) project.
-- I am fluent in the following languages: Slovak, C#, English, Python, Italian, any of IEC-61131-3
-- I am somewhat knowledgeable in Spanish, C, C++, Russian, F#
-- I can kind of understand: Estonian, Go, Polish, JavaScript, Czech, Java
-- In the field of industrial automation, I master Siemens, Beckhoff, Schneider, Rexroth.
-- My preferred pronoun in the third person singular is *he*, sometimes, I refer to myself as *we*, and you may refer to me as *they* since my work often includes the work of many of my friends and coworkers.
-
-[🖇](https://www.linkedin.com/in/peter-kurhajec/)
+- I'm a proud husband and father of five.
+- Professionally, I thrive at the intriguing intersection of Information and Operational technologies (IT ↔ OT). My aim is to harmoniously integrate IT & OT technologies in impactful ways.
+- To fulfill this mission, I'm actively involved in projects such as [Inxton](https://docs.inxton.com/). Many of my projects, including [AX#](https://github.com/ix-ax/axsharp), [AXOpen](https://github.com/ix-ax/AXOpen), and [TcOpen](https://github.com/TcOpenGroup/TcOpen), are open-sourced.
+- **Languages I'm Fluent In:** Slovak, C#, English, Python, Italian, and all of IEC-61131-3.
+- **Languages I'm Proficient In:** Spanish, JavaScript, C++, Russian, F#.
+- **Languages I Have a Basic Understanding Of:** Estonian, Go, Polish, C, Czech, Java.
+- In industrial automation, my expertise lies with brands such as Siemens, Beckhoff, Schneider, and Rexroth.
+- When referring to me, my preferred third-person singular pronoun is *he*. I sometimes use *we* to describe myself, reflecting the collaborative nature of my work. Alternatively, feel free to use *they*, as my work often embodies contributions from numerous friends and colleagues.
