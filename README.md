@@ -2,7 +2,7 @@
 
 - I'm a proud husband and father of five.
 - Professionally, I thrive at the intriguing intersection of Information and Operational technologies (IT ↔ OT). My aim is to harmoniously integrate IT & OT technologies in impactful ways.
-- To fulfill this mission, I'm actively involved in projects such as [Inxton](https://docs.inxton.com/). Many of my projects, including [AX#](https://github.com/ix-ax/axsharp), [AXOpen](https://github.com/ix-ax/AXOpen), and [TcOpen](https://github.com/TcOpenGroup/TcOpen), are open-sourced.
+- To fulfill this mission, I'm actively involved in projects such as [Inxton](https://github.com/inxton). Many of my projects, including [AX#](https://github.com/ix-ax/axsharp), [AXOpen](https://github.com/ix-ax/AXOpen), and [TcOpen](https://github.com/TcOpenGroup/TcOpen), are open-sourced.
 - **Languages I'm Fluent In:** Slovak, C#, English, Python, Italian, and all of IEC-61131-3.
 - **Languages I'm Proficient In:** Spanish, JavaScript, C++, Russian, F#.
 - **Languages I Have a Basic Understanding Of:** Estonian, Go, Polish, C, Czech, Java.
